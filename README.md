@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charles-morand" alt="charles-morand" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on rails, JavaScript**
+- 🌱 I’m currently learning **Ruby on rails, JavaScript, React**
 
 - 📫 How to reach me **charles_morand@hotmail.fr**
 
